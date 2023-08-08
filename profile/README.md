@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bienvenidos a el proyecto de grado Soul Of Steel 👋
 
 <!--
 
